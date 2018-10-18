@@ -1,0 +1,23 @@
+{
+  "name": "tadhana",
+  "version": "1.0.0",
+  "description": "Shout everything you ever wanted!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buahaha/tadhana.git"
+  },
+  "keywords": [
+    "free",
+    "spech"
+  ],
+  "author": "Szymon Błaszczyński",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/buahaha/tadhana/issues"
+  },
+  "homepage": "https://github.com/buahaha/tadhana#readme"
+}
