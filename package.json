@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/buahaha/tadhana#readme",
   "dependencies": {
-    "mongoose": "^5.3.4"
+    "mongoose": "5.3.4"
   }
 }
