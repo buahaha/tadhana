@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/buahaha/tadhana/issues"
   },
-  "homepage": "https://github.com/buahaha/tadhana#readme"
+  "homepage": "https://github.com/buahaha/tadhana#readme",
+  "dependencies": {
+    "mongoose": "^5.3.4"
+  }
 }
